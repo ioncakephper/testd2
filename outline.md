@@ -1,0 +1,52 @@
+## docs
+
+- FTOS Documentation
+    - Getting started @t FintechOS Documentation
+        - @headers
+            - Featured content
+            - Training videos
+            - How to use this documentation
+- Innovation core @f
+    - Overview
+- FTOS Studio @f @s studio
+    - Overview @t FintechOS Studio overview
+    - User Guide @f @s user guide
+        - Introduction
+            - @headers
+                - Getting started
+        - Installation
+            - @headers
+                - 1. Get installation kit and syspacks
+                - 2. Create installation .bat file
+                - 3. Create database
+                - 4. Install Studio and Portal
+                - 5. Install additional syspacks
+        - Evolutive Data Core
+            - Data model designer
+            - Data model explorer
+            - Data import template
+            - Data governance
+            - REST processors
+            - Data pipes
+        - Digital Journeys
+            - Form driven flows
+            - Form driven mockup flows
+            - Custom flows
+            - UI designer
+            - Custom style sheets
+            - Localization
+            - Code snippets
+        - Fintech Automation
+        - Reporting and Analysis
+        - Digital Developer Tools
+        - Digital Touchpoints
+        - Security
+        - DevOps
+
+## tutorials
+
+- Tutorials @f
+    - Overview @t What will learn in tutorials
+        - @headers
+    - Basic outline
+    - Several sidebars @t Outline files with several sidebars
