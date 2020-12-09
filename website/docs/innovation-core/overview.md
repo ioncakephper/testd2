@@ -1,12 +1,12 @@
 ---
-title: Overview
+title: Innovation core overview
 id: overview
 sidebar_label: Overview
 ---
 
 <!-- @part src="../parts/overview/h1-overview-description.md" -->
 
-Dolore aliquip et ea incididunt est quis velit laboris occaecat magna commodo enim commodo voluptate. Cupidatat occaecat dolor ea nostrud tempor esse exercitation magna. Anim cillum voluptate nostrud sit magna fugiat veniam aute dolor quis quis. Esse proident nisi ex elit eiusmod. Elit enim laborum voluptate tempor tempor veniam.
+Sit irure aliquip cillum ullamco ut laborum ullamco duis ipsum pariatur aute. Ipsum cupidatat laborum ea magna culpa enim mollit dolor esse adipisicing ad nostrud reprehenderit. Eu id cupidatat aute excepteur ex ullamco. Velit laborum sint ad ea incididunt in cillum pariatur Lorem. Occaecat consequat anim cillum id excepteur irure anim eu.
 <!-- @/part -->
 
 <!-- @part src="../parts/overview/h1-overview-body.md" -->

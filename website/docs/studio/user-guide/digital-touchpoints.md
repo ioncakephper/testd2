@@ -6,7 +6,7 @@ sidebar_label: Digital Touchpoints
 
 <!-- @part src="../parts/digital-touchpoints/h1-digital-touchpoints-description.md" -->
 
-Occaecat proident mollit veniam Lorem tempor irure proident laborum enim qui excepteur minim voluptate nulla. Consequat tempor dolore aliqua anim ex nulla proident. Elit et adipisicing adipisicing commodo enim ea. Dolore dolore ut magna ullamco duis eiusmod consequat ipsum mollit eu cupidatat duis. Nostrud magna laboris reprehenderit Lorem.
+Cillum nulla Lorem nulla laborum aute labore excepteur reprehenderit in reprehenderit. Officia aliquip laboris velit officia. Consequat anim magna eu nisi incididunt eiusmod. Do est dolore pariatur in aliquip sunt occaecat irure ea est in reprehenderit dolor. Anim cupidatat id nostrud sint ut eiusmod deserunt ea Lorem aute amet.
 <!-- @/part -->
 
 <!-- @part src="../parts/digital-touchpoints/h1-digital-touchpoints-body.md" -->

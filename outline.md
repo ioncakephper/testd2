@@ -7,7 +7,7 @@
             - Training videos
             - How to use this documentation
 - Innovation core @f
-    - Overview
+    - Overview @t Innovation core overview
 - FTOS Studio @f @s studio
     - Overview @t FintechOS Studio overview
     - User Guide @f @s user guide

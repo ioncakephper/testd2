@@ -6,7 +6,7 @@ sidebar_label: Data import template
 
 <!-- @part src="../parts/data-import-template/h1-data-import-template-description.md" -->
 
-Ad sit pariatur mollit culpa nisi proident duis minim sunt officia cillum consectetur ad elit. Exercitation cupidatat nulla deserunt sit consequat duis nulla tempor enim cupidatat tempor. Nisi ea deserunt do laborum sunt nulla ullamco commodo ad duis consequat. Adipisicing ullamco eiusmod ex duis pariatur in amet officia consectetur labore. Irure reprehenderit minim et officia adipisicing non id officia sint nostrud proident.
+Irure laboris labore duis irure nisi. Voluptate excepteur reprehenderit et qui sit consequat magna nisi culpa sint enim ea dolore. Do elit tempor aliquip sunt Lorem eiusmod minim anim voluptate pariatur velit. Nostrud in consectetur reprehenderit sint. Minim et dolor irure dolor.
 <!-- @/part -->
 
 <!-- @part src="../parts/data-import-template/h1-data-import-template-body.md" -->
